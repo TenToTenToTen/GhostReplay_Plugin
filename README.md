@@ -15,15 +15,20 @@ Whether you're building death replays, tutorial ghosts, or story moments, Ghost 
 
 ---
 
+## 📚 Documentation
+📖 [Read the Docs](https://tentotentoten.github.io/GhostReplay_Docs/)
+
+---
+
 ## 🎥 Trailer Video
 [▶ Watch on YouTube](https://www.youtube.com/watch?v=LHjubAv9SbY)
 
 ---
 
 ## 📞 Contact Us
-- **Discord**: [Join our Discord](https://discord.com/invite/kkN6dss3Ph)
-- **YouTube**: [Watch our Trailer Video](https://www.youtube.com/watch?v=LHjubAv9SbY)
-- **📧 Email**: techlab.ttt@gmail.com
+- 🎮 **Discord**: [Join our Discord](https://discord.com/invite/kkN6dss3Ph)
+- ▶ **YouTube**: [Watch our Trailer Video](https://www.youtube.com/watch?v=LHjubAv9SbY)
+- 📧 **Email**: techlab.ttt@gmail.com
 
 ---
 
