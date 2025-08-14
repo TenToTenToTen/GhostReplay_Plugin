@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Ghost Replay System",
+	"Description": "A Ghost Replay System supports all types of mesh component",
+	"Category": "Other",
+	"CreatedBy": "TTT",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"FabURL": "com.epicgames.launcher://ue/Fab/product//4a157b34-d445-4663-aeab-a275b5ab5974",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": true,
+	"Installed": true, 	
+	"Modules": [
+		{
+			"Name": "BloodStainSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ 
+				"Win64", 
+				"Mac" 
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		}
+	]
+}
